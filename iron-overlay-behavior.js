@@ -1,9 +1,9 @@
 import '@polymer/polymer/polymer-legacy.js';
 import { IronFitBehavior } from '@polymer/iron-fit-behavior/iron-fit-behavior.js';
 import { IronResizableBehavior } from '@polymer/iron-resizable-behavior/iron-resizable-behavior.js';
-import { IronOverlayManager } from './iron-overlay-manager.js';
+import { IronOverlayManager } from '@polymer/iron-overlay-behavior/iron-overlay-manager.js';
 import { removeScrollLock, pushScrollLock } from './iron-scroll-manager.js';
-import { IronFocusablesHelper } from './iron-focusables-helper.js';
+import { IronFocusablesHelper } from '@polymer/iron-overlay-behavior/iron-focusables-helper.js';
 import { dom } from '@polymer/polymer/lib/legacy/polymer.dom.js';
 import { useShadow } from '@polymer/polymer/lib/utils/settings.js';
 
