@@ -1,6 +1,7 @@
 import '@polymer/polymer/polymer-legacy.js';
 import { IronControlState } from '@polymer/iron-behaviors/iron-control-state.js';
-import { IronOverlayBehavior, IronOverlayBehaviorImpl } from '@polymer/iron-overlay-behavior/iron-overlay-behavior.js';
+//import { IronOverlayBehavior, IronOverlayBehaviorImpl } from '@polymer/iron-overlay-behavior/iron-overlay-behavior.js';
+import { IronOverlayBehavior, IronOverlayBehaviorImpl } from './iron-overlay-behavior.js';
 import { NeonAnimationRunnerBehavior } from '@polymer/neon-animation/neon-animation-runner-behavior.js';
 import './iron-dropdown-scroll-manager.js';
 import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
