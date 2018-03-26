@@ -38,7 +38,6 @@
   "dependencies": {
     "@polymer/polymer": "3.0.0-pre.12",
     "@polymer/iron-behaviors": "3.0.0-pre.12",
-    "@polymer/iron-overlay-behavior": "3.0.0-pre.12",
     "@polymer/neon-animation": "3.0.0-pre.12"
   }
 }
